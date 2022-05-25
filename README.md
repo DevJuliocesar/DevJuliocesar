@@ -3,7 +3,7 @@
 </div>
 
 ### Hi there, I'm Julio Cesar 👋
-<div id="header" align="center">
+<div align="center">
     <a href="https://twitter.com/dev_juliocesar">
     <img align="left" alt="Julio Cesar | Linkedin" height="20px" src="https://img.shields.io/badge/Twitter-blue?&logo=twitter&logoColor=white&style=for-the-badge" />
     </a>
