@@ -4,13 +4,13 @@
 
 ### Hi there, I'm Julio Cesar 👋
 <div id="header" align="center">
-    <a href="https://www.linkedin.com/in/juliocesarmaldonadomoreno/">
+    <a href="https://twitter.com/dev_juliocesar">
     <img align="left" alt="Julio Cesar | Linkedin" height="20px" src="https://img.shields.io/badge/Twitter-blue?&logo=twitter&logoColor=white&style=for-the-badge" />
     </a>
-    <a href="https://twitter.com/dev_juliocesar">
+    <a href="https://www.linkedin.com/in/juliocesarmaldonadomoreno/">
     <img align="left" alt="JulioCesar | Twitter" height="20px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/dev_juliocesar/">
+    <a href="https://www.linkedin.com/in/juliocesarmaldonadomoreno/">
     <img align="left" alt="Instagram" height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/dev_juliocesar/">
@@ -38,16 +38,25 @@ A Software Ing. from Colombia, passionate software developer to create awesome m
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<br />
-<br />
-
-<a href="https://github.com/DevJuliocesar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DevJuliocesar&show_icons=true&include_all_commits=true&theme=radical" alt="Arnaldo's github stats" />
-</a>
-<a href="https://github.com/DevJuliocesar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevJuliocesar&layout=compact&theme=radical" />
-</a>
+<br/>
+<br/>
+<div align="center">
+    <a href="https://github.com/DevJuliocesar/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DevJuliocesar&show_icons=true&include_all_commits=true&theme=radical" alt="Arnaldo's github stats" />
+    </a>
+</div>
 <br>
+<div align="center">
+    <a align="center" href="https://github.com/DevJuliocesar/DevJuliocesar.github.io">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuliocesar&theme=radical" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/DevJuliocesar/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevJuliocesar&layout=compact&theme=radical" />
+    </a>
+</div>
 <br>
 <a href="https://github.com/DevJuliocesar/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJuliocesar&repo=koibanxBackend&theme=radical" />
@@ -56,13 +65,6 @@ A Software Ing. from Colombia, passionate software developer to create awesome m
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJuliocesar&repo=photolink&theme=radical" />
 </a>
 <br>
-<br>
-<div align="center">
-    <a align="center" href="https://github.com/DevJuliocesar/DevJuliocesar.github.io">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuliocesar&theme=radical" />
-    </a>
-</div>
-
 
 <!--
 - 🔭 I’m currently working on ...
