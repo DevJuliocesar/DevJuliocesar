@@ -1,14 +1,14 @@
 ### Hi there, I'm Julio Cesar 👋
 
 
-<a href="https://www.linkedin.com/in/aferrercrafter/">
-  <img align="left" alt="Arnaldo | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/juliocesarmaldonadomoreno/">
+  <img align="left" alt="Julio Cesar | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/aferrercrafter">
-  <img align="left" alt="Arnaldo | Twitter" width="21px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/linkedin.svg" />
+<a href="https://twitter.com/dev_juliocesar">
+  <img align="left" alt="JulioCesar | Twitter" width="21px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/aferrercrafter">
-  <img align="left" alt="Anurag's HackerRank" height="25px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/instagram.svg" />
+<a href="https://www.instagram.com/dev_juliocesar/">
+  <img align="left" alt="Instagram" height="20px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/instagram.svg" />
 </a>
 
 
