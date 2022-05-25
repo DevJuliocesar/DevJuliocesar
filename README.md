@@ -1,15 +1,22 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e476rv7bw9ni7t8phtdxw1f9a0r0sasbrq7luzfdnq8&rid=giphy.gif&ct=g" width="300"/>
+</div>
+
 ### Hi there, I'm Julio Cesar 👋
-
-<a href="https://www.linkedin.com/in/juliocesarmaldonadomoreno/">
-  <img align="left" alt="Julio Cesar | Linkedin" width="20px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/twitter.svg" />
-</a>
-<a href="https://twitter.com/dev_juliocesar">
-  <img align="left" alt="JulioCesar | Twitter" width="21px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/dev_juliocesar/">
-  <img align="left" alt="Instagram" height="20px" src="https://raw.githubusercontent.com/DevJuliocesar/DevJuliocesar/main/assets/instagram.svg" />
-</a>
-
+<div id="header" align="center">
+    <a href="https://www.linkedin.com/in/juliocesarmaldonadomoreno/">
+    <img align="left" alt="Julio Cesar | Linkedin" height="20px" src="https://img.shields.io/badge/Twitter-blue?&logo=twitter&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://twitter.com/dev_juliocesar">
+    <img align="left" alt="JulioCesar | Twitter" height="20px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/dev_juliocesar/">
+    <img align="left" alt="Instagram" height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/dev_juliocesar/">
+    <img align="left" alt="Instagram" height="20px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</div>
 <br>
 <br>
 
@@ -43,11 +50,19 @@ A Software Ing. from Colombia, passionate software developer to create awesome m
 <br>
 <br>
 <a href="https://github.com/DevJuliocesar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJuliocesar&repo=koibanxBackend&theme=radical" />
-</a>    
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJuliocesar&repo=koibanxBackend&theme=radical" />
+</a>  
 <a href="https://github.com/DevJuliocesar/DevJuliocesar.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJuliocesar&repo=photolink&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJuliocesar&repo=photolink&theme=radical" />
 </a>
+<br>
+<br>
+<div align="center">
+    <a align="center" href="https://github.com/DevJuliocesar/DevJuliocesar.github.io">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuliocesar&theme=radical" />
+    </a>
+</div>
+
 
 <!--
 - 🔭 I’m currently working on ...
