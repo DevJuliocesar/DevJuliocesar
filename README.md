@@ -20,7 +20,7 @@
 <br>
 <br>
 
-A Software Ing. from Colombia, passionate software developer to create awesome mobile apps!
+A Software Ing. from Colombia, passionate software developer to create awesome mobile and web apps!
 
 - 🌱 I’m currently learning [Golang](https://go.dev/)
 - ⚡ Fun fact: 🚴 Ciclismo, 🥋 Taekwondo, 🎮 Video Game
