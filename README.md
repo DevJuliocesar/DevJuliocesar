@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e476rv7bw9ni7t8phtdxw1f9a0r0sasbrq7luzfdnq8&rid=giphy.gif&ct=g" width="500"/>
+  <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e476rv7bw9ni7t8phtdxw1f9a0r0sasbrq7luzfdnq8&rid=giphy.gif&ct=g" width="300"/>
 </div>
 
 ### Hi there, I'm Julio Cesar 👋
